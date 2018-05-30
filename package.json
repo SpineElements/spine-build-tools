@@ -1,11 +1,11 @@
 {
   "name": "spine-sass-transpiler",
   "version": "0.1.0",
-  "main": "lib/sass-transpiler.js",
+  "main": "lib/spine-sass-transpiler.js",
   "description": "A build tool for SASS to CSS source-to-source compilation.",
   "repository": "https://github.com/SpineElements/spine-sass-transpiler.git",
   "bin": {
-    "sass-transpiler": "bin/sass-transpiler"
+    "spine-sass-transpiler": "bin/sass-transpiler"
   },
   "license": "Apache-2.0",
   "dependencies": {
