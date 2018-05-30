@@ -1,2 +1,7 @@
 # spine-build-tools
-A set of scripts to be used in the build process of components
+A build tool for SASS to CSS source-to-source compilation.
+
+## Installation
+```bash
+npm install --save-dev SpineElements/spine-sass-transpiler
+```
