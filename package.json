@@ -1,5 +1,5 @@
 {
-  "name": "sass-transpiler",
+  "name": "spine-sass-transpiler",
   "version": "0.1.0",
   "main": "lib/sass-transpiler.js",
   "description": "A build tool for SASS to CSS source-to-source compilation.",
